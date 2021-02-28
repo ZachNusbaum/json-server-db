@@ -1,5 +1,5 @@
 {
   "posts": [
-    {id: 1, title: "Posty Posterson", content: "Quite a post, eh?"}
+    {"id": 1, "title": "Posty Posterson", "content": "Quite a post, eh?"}
   ]
 }
